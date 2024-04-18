@@ -12,19 +12,19 @@
             background-color: #f9f9f9;
         }
         header {
-            background-color: #333;
-            color: #fff;
+            background-color: #3333;
+            color: #ffff;
             padding: 20px;
             text-align: center;
         }
         nav {
-            background-color: #444;
-            color: #fff;
+            background-color: #4444;
+            color: #ffff;
             padding: 10px;
             text-align: center;
         }
         nav a {
-            color: #fff;
+            color: #ffff;
             text-decoration: none;
             margin: 0 10px;
         }
